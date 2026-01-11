@@ -1,0 +1,29 @@
+[
+  {
+    "title": "react",
+    "company": "corp",
+    "location": "kenya",
+    "description": "breoboierbveriov ",
+    "applyUrl": "https://job.com",
+    "id": "ianjkglkw",
+    "createdAt": "2026-01-11T16:53:25.326Z"
+  },
+  {
+    "id": "1",
+    "title": "Frontend Developer",
+    "company": "TechCorp",
+    "location": "Remote",
+    "description": "We are looking for a skilled Frontend Developer to join our team. You will be building modern web applications using Next.js and Tailwind CSS.",
+    "applyUrl": "https://example.com/apply/frontend",
+    "createdAt": "2023-10-26T10:00:00.000Z"
+  },
+  {
+    "id": "2",
+    "title": "Product Designer",
+    "company": "DesignStudio",
+    "location": "New York, NY",
+    "description": "Join our creative team to design beautiful user interfaces.",
+    "applyUrl": "https://example.com/apply/designer",
+    "createdAt": "2023-10-25T14:30:00.000Z"
+  }
+]
